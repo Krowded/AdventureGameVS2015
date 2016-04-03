@@ -1,0 +1,13 @@
+﻿*Template for how to write a Door file*
+
+PositionX:[X-coordinate]
+PositionY:[Y-coordinate}
+Name:[Door name]
+PartnerDoorName:[Destination door name]
+Image:[Image filepath]
+Scale:[Scale float. Use , instead of .]
+Collidable:[true or false]
+Foreground:[true or false]
+Observation:[Text file path]
+
+*Remember to set to "Copy Always"*
